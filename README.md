@@ -18,6 +18,6 @@ Check out the dynamic Spinning Donut Renderer in action:
 
 *Spinning Donut Demo: Witness the donut in continuous motion with realistic lighting.*
 
-![Manual Donut Rotation](screenshots/ManualRotation.gif)
+![Manual Donut Rotation](screenshots/ManualRotation2.gif)
 
 *Manual Donut Rotation: Experience interactive control as you click and drag to manually rotate the donut.*
